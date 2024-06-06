@@ -8,7 +8,7 @@ function App() {
     <>
       <nav className="navbar navbar-expand-sm navbar-light bg-primary">
         <a className="navbar-brand mx-3" href="#">
-          Durga
+          Durga's ToDo App
         </a>
         <button
           className="navbar-toggler"
